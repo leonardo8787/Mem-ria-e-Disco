@@ -30,3 +30,12 @@ melhor de organizar a memória que reduza a quantidade de falhas durante a execu
 em relatório qual é a porcentagem de ganho que sua solução apresenta em comparação com
 a solução básica implementada.
 
+
+
+
+--------------------------------------------------------------------Relatório Final de Conclusão------------------------------------------------------------------------------
+Aluno: Leonardo de Oliveira Campos
+Professor: Michel
+CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS
+
+Comecei a desenvolver o software com linguagem C++, o qual achava ser mais fácil desenvolvimento, ledo engano. Contanto como já havia dado inicio na programação, continuei com tal linguagem de programação. Implementei um swite case para fazer um menu que dá acesso as diversas funcionalidades do software, funcionalidades dentro do escopo do trabalho. Hodiernamente, terminei o trabalho finalizando a questão das memórias de disco, no qual havia a demanda por trocar a informação dos arquivos conforme fosse requisitado pelo usuário. Concluindo com sucesso tal etapa, que consistia retirar informações especificas de um arquivo, denominado Disco para outro arquivo, denominado Memória, no qual era instruido pelo arquivo Processos para levar informações localizadas nas casas específicadas pelo professor. Por fim, desse processo, o usuário teria a chance de limpar a memória novamente para reuso. O qual ocorreu com sucesso. Assim, foi simulado o funcionamento da memória.
