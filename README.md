@@ -40,3 +40,17 @@ CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS
 
 Comecei a desenvolver o software com linguagem C++, o qual achava ser mais fácil desenvolvimento, ledo engano. Contanto como já havia dado inicio na programação, continuei com tal linguagem de programação. Implementei um swite case para fazer um menu que dá acesso as diversas funcionalidades do software, funcionalidades dentro do escopo do trabalho. Hodiernamente, terminei o trabalho finalizando a questão das memórias de disco, no qual havia a demanda por trocar a informação dos arquivos conforme fosse requisitado pelo usuário. Concluindo com sucesso tal etapa, que consistia retirar informações especificas de um arquivo, denominado Disco para outro arquivo, denominado Memória, no qual era instruido pelo arquivo Processos para levar informações localizadas nas casas específicadas pelo professor. Por fim, desse processo, o usuário teria a chance de limpar a memória novamente para reuso. O qual ocorreu com sucesso. Assim, foi simulado o funcionamento da memória. Quanto ao ganho no processo de estabilidade de memória, o método que desenvolvi ao longo do código, presando pela utilização de funções, não houve uma sequência mutua de erros, visto que o encaixe da programação por meio da arquitetura a que cheguei deixou a leitura do arquivo e sua manipulação estáveis e de fácil manutenção futura, por se tratar de funções, os erros são encontrados e tratados facilmente. Obviamente na modelagem de tal script houve falhas, entretanto, após a conclusão da escrita do código, os erros foram suprimidos de campo. O software em questão, por fim, obteve 0% de erro, após a conclusão da programação.
 
+-----------------Orientação do uso do Software-----------------------------
+1-clique no carregar processos.
+2-clique no carregar disco.
+3-clique em Manutenção
+4-clique em Memória
+5-clique no Exibir matriz, depois clique em exibir matriz Disco.
+===========================================================================
+-----------------Para retornar para o disco--------------------------------
+1-clique em Exibir matriz, depois em Liberar Memória
+2-clique em Exibir matriz, depois em Disco.
+
+qualquer dúvida, entrar em contato!
+
+
